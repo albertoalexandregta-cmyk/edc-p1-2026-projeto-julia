@@ -7,7 +7,7 @@ Instale normalmente:
 Next → Next → Install
 ✅ Marque: Add Julia to PATH
 
-##✅ TESTAR INSTALAÇÃO
+## ✅ TESTAR INSTALAÇÃO
 Abra o Prompt de Comando (CMD) e cole:
 Bash
 julia
@@ -16,13 +16,14 @@ Se aparecer:
 `julia>`
 ✔ Funcionou
 
-##▶️ RODAR SEU CÓDIGO
+## ▶️ RODAR SEU CÓDIGO
 1. Criar arquivo
 Abra o bloco de notas, cole seu código e salve como:
 
 `fila.jl`
 
 2. Executar
+
 No CMD, vá até a pasta do arquivo:
 Bash
 `cd caminho\da\pasta`
