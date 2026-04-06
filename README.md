@@ -1,6 +1,6 @@
 # edc-p1-2026-projeto-julia
 
-INSTALAR JULIA (Windows)
+📥 INSTALAR JULIA (Windows)
 Baixe aqui:
 https://julialang.org/downloads/⁠�
 Instale normalmente:
