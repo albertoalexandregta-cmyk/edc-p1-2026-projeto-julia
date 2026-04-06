@@ -48,3 +48,8 @@ Agora é só rodar:
 `
 julia fila.jl
 `
+
+
+## Link do video de programacao e explicação
+
+https://youtu.be/3tKDLN-bG1w?feature=shared
